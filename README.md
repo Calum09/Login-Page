@@ -4,6 +4,8 @@ A login landing page using CSS and HTML.
 
 Check it out here: https://calum09.github.io/Login-Page/
 
+<img width="515" alt="Screenshot 2023-06-19 at 16 28 39" src="https://github.com/Calum09/Login-Page/assets/111386433/994ec0b6-9f7a-49c4-b217-8ae2a1a74e5a">
+
 ---
 
 ### Installation Instructions
